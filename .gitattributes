@@ -13,3 +13,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.qza filter=lfs diff=lfs merge=lfs -text
 *.qzv filter=lfs diff=lfs merge=lfs -text
+metabolomics.ipynb filter=lfs diff=lfs merge=lfs -text
